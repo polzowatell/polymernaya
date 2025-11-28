@@ -87,3 +87,4 @@ contract XCounter is CustomChanIbcApp {
         // do logic
     }
 }
+     * @param packet the IBC packet encoded by the counterparty and relayed by the relayer
